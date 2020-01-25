@@ -1,2 +1,4 @@
-# Hackintosh
-Hackintosh install guides
+# 黑苹果安装教程
+## 前提
+* 一台电脑
+* 一个8 GB 或以上的 U 盘
